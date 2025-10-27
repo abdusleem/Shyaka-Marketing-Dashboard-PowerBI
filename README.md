@@ -174,7 +174,7 @@ Total Conversions = SUM(ROI[Conversions])
 
 | Overview | ROI Analysis | Engagement Analysis |
 |----------|--------------|---------------------|
-| ![Overview](D1-%20Overview.png) | ![ROI](screenshots/dashboard2.png) | ![Engagement](screenshots/dashboard3.png) |
+| ![Overview](D1-%20Overview.png) | ![ROI](D2-20%Performance.png) | ![Engagement](D3-20%Performance.png) |
 
 ---
 
