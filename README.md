@@ -1,6 +1,6 @@
 # 📊 Shyaka Marketing Dashboard - Power BI Project
 
-![Dashboard Preview](screenshots/overview.png)
+![Dashboard Preview](D1-%20Overview.png)
 
 ## 📌 Project Overview
 
@@ -179,14 +179,10 @@ Total Conversions = SUM(ROI[Conversions])
 ---
 
 ## 📁 Project Structure
-```
-📦 Shyaka-Marketing-Dashboard
- ┣ 📂 data
- ┃ ┗ 📜 data.txt
- ┣ 📂 power-bi
- ┃ ┗ 📊 Shyaka.pbix
+ ┃  [📊 Shyaka](./Shyaka.pbix) → Power BI dashboard file  
+ ┃  [📜 Data](./Data.xlsx) → Database 
 
-```
+
 
 ---
 
@@ -204,9 +200,8 @@ Total Conversions = SUM(ROI[Conversions])
 ## 📞 Contact
 
 **Created by:** AbdulRahman Sleem  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** [Your Email]  
-**Portfolio:** [Your Portfolio Website]
+**LinkedIn:** [https://www.linkedin.com/in/abdulrahmansleem/]  
+
 
 ---
 
