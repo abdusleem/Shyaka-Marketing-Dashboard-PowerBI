@@ -174,7 +174,7 @@ Total Conversions = SUM(ROI[Conversions])
 
 | Overview | ROI Analysis | Engagement Analysis |
 |----------|--------------|---------------------|
-| ![Overview](D1-%20Overview.png) | ![ROI](D2-20%Performance.png) | ![Engagement](D3-20%Audience20%&20%Engagement.png) |
+| ![Overview](D1-%20Overview.png) | ![ROI](D2-%20Performance.png) | ![Engagement](D3-%20Audience%20&20Engagement.png) |
 
 ---
 
@@ -182,12 +182,9 @@ Total Conversions = SUM(ROI[Conversions])
 ```
 📦 Shyaka-Marketing-Dashboard
  ┣ 📂 data
- ┃ ┗ 📜 raw_data.txt
+ ┃ ┗ 📜 data.txt
  ┣ 📂 power-bi
- ┃ ┗ 📊 Shyaka_Dashboard.pbix
- ┣ 📜 README.md
- ┗ 📜 Data_Dictionary.md
-
+ ┃ ┗ 📊 Shyaka.pbix
 ```
 
 ---
